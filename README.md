@@ -1,4 +1,4 @@
 # lokesh
 This is my first git repo.
 <br>
-Author-lokeshhh
+Author-loki
